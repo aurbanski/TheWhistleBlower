@@ -98,7 +98,7 @@ class Player {
 
     pushMatrix();
     img = loadImage("Bike.png");
-    image(img, x-45, y-45, width/8, height/6);
+    image(img, x, y-45, width/8, height/6);
     //fill(255,0,0);
     //noStroke();
     //rect(x,y,16,16);
