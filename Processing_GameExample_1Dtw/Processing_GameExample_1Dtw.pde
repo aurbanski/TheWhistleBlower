@@ -9,7 +9,7 @@ import netP5.*;
 OscP5 oscP5;
 NetAddress dest;
 
-final int WIDTH = 50;
+final int WIDTH = 45;
 final int HEIGHT = 23;
 int[][] level = new int[HEIGHT][WIDTH];
 
