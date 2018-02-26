@@ -28,5 +28,8 @@ to define the overall decision boundaries and we believe that with the amount of
 a recursive series of decision trees is best suited to building these boundaries. 
 
 ## Improvement Ideas
+Some more fine-tuning on the model would make the device work even more accurately. It would also be an improvement to add more options
+for movement instead of the simple deceleration, acceleration, and braking that we have now. 
 
 ## Demo Video
+See our demo video [here](https://youtu.be/DNs9MV2QM_I).
